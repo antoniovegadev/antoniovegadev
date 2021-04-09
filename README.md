@@ -15,8 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on a Budgeting App for iOS
+- 🔭 I’m currently working on a **Budgeting App** for iOS
 - 🌱 I’m currently learning **iOS Development**
 - 📫 How to reach me: tonivegaochoa@gmail.com
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I ride motorcycles
+
+<!--
+### Stats
+[![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonivegaochoa&theme=radical&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+-->

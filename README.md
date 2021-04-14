@@ -15,10 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on a **Budgeting App** for iOS
+- 🔭 I’m currently working on a **Soccer App** for iOS
 - 🌱 I’m currently learning **iOS Development**
 - 📫 How to reach me: tonivegaochoa@gmail.com
-- 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I ride motorcycles
 
 <!--

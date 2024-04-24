@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on a **Hacker News** mobile client for iOS
 - 📫 How to reach me: tonivegaochoa@gmail.com
 - ⚡ Fun fact: I ride motorcycles
 

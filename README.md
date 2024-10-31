@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 📱 Develop iPhone apps for a living
 - 📫 How to reach me: tonivegaochoa@gmail.com
-- ⚡ Fun fact: I ride motorcycles
 
 <!--
 ### Stats

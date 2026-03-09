@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 📱 Develop iPhone apps for a living
+- 📱 iOS Developer / Platform Engineer
 - 📫 How to reach me: tonivegaochoa@gmail.com
 
 <!--
